@@ -1,0 +1,3 @@
+C:\Users\CASPER\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
